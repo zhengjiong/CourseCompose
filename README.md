@@ -2,7 +2,7 @@
 
 课程地址：[Jetpack Compose：从上手到进阶再到高手](http://url.rengwuxian.com/02)
 
-[![封面图](./images/Compose-Cover.png)](http://url.rengwuxian.com/02)
+
 
 # 源码导航
 
