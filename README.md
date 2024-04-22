@@ -1,6 +1,4 @@
-# 【不是开源项目】扔物线 Compose 课程源码
 
-课程地址：[Jetpack Compose：从上手到进阶再到高手](http://url.rengwuxian.com/02)
 
 
 
